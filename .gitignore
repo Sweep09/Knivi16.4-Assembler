@@ -1,0 +1,4 @@
+*.log
+*.asm
+/emulator/
+/__pycache__/
